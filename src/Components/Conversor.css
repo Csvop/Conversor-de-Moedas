@@ -1,0 +1,9 @@
+.conversor{
+    padding: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgb(26, 25, 25);
+    background-color: rgb(2, 139, 2);
+    text-align: center;
+    color: rgb(255, 238, 0);
+    border-radius: 25px;
+}

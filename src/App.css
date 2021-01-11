@@ -1,0 +1,23 @@
+.App{
+    background-image: url(./moneybackground1.jpg);
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.Titulo{
+    padding-top: 100px;
+    text-align: center;
+    font-size: large;
+    color: rgb(255, 255, 0);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.Conversor{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}

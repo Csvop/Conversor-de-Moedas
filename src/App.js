@@ -4,7 +4,12 @@ import Conversor from "./Components/Conversor";
 function App() {
   return (
     <div className="App">
-    <Conversor moedaA="CAD" moedaB="BRL"></Conversor>
+      <div className="Titulo">
+        <h1>Conversor de Moedas</h1>
+      </div>
+      <div className="Conversor">
+        <Conversor moedaA="CAD" moedaB="BRL"></Conversor>
+      </div>
     </div>
   );
 }
